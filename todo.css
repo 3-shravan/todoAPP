@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 180px 120px 60px;
+    margin: 10px;
+    gap: 20px;
+}
